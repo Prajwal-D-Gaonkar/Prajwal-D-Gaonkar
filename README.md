@@ -15,26 +15,6 @@ I work on **LLM-based systems, multi-agent architectures, and event-driven micro
 - 🔹 AI Systems (LLMs, RAG, Multi-Agent Systems)  
 - 🔹 Deep Learning (CNNs, Sequence Models)
 
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-Java, Python  
-
-### ⚙️ Backend & Systems
-FastAPI, REST APIs, Microservices, Event-Driven Architecture, RabbitMQ  
-
-### 🧠 AI / ML
-TensorFlow, LLMs, RAG, AI Agents. 
-
-### 🗄️ Databases
-SQL, SQLite, ChromaDB, Pinecone  
-
-### 🧰 Tools & Platforms
-Git, GitHub, Docker, LangSmith, VS Code  
-
----
 
 # 🏆 Achievements
 - 🥈 Runner-Up — National Level 24-hour Hackathon (Infothon)  
