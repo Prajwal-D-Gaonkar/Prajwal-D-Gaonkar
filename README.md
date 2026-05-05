@@ -1,9 +1,48 @@
-# 💫 About Me:
-Hi, I’m Prajwal D Gaonkar 👨‍💻<br>A passionate Software Engineering student with strong interests in Artificial Intelligence, Machine Learning, and Cloud Computing. I enjoy building real-world projects that combine clean code, data-driven decision making, and scalable system design.<br><br>I have hands-on experience in developing ML models, web applications, and AI-powered systems, including projects in loan prediction, recommendation systems, job automation using AI agents, and cloud-based deployments. I love turning complex problems into simple, efficient solutions.<br><br>🚀 I’m constantly learning, experimenting with new technologies, and contributing to meaningful projects that create impact.<br><br>🛠️ Tech Stack<br><br>Languages: Python, JavaScript, SQL<br><br>Web: HTML, CSS, JavaScript, Flask, Streamlit<br><br>Machine Learning: Scikit-learn, Pandas, NumPy, Random Forest<br><br>AI & NLP: Embeddings, Vector Search, LLM-based Agents<br><br>Databases: MySQL, MongoDB<br><br>Cloud: Google Cloud Platform (GCP)<br><br>Tools: Git, GitHub, VS Code<br><br>🏆 Highlights<br><br>🥈 Runner-up – 24-Hour National Level Hackathon (Infothon)<br><br>☁️ Google Cloud Certified (Cloud Engineering Foundations)<br><br>🤖 Built AI-driven systems for job automation & personal finance management<br><br>📊 Developed ML models with real-world datasets<br><br>🌱 Currently Learning<br><br>Advanced Machine Learning & AI Agents<br><br>Cloud-native architectures<br><br>System design for scalable applications
+# 💫 About Me
+Hi, I’m Prajwal D Gaonkar 👨‍💻  
+Computer Science student focused on building **scalable backend systems and AI-driven applications**.
 
+I work on **LLM-based systems, multi-agent architectures, and event-driven microservices**, combining AI with real-world system design. My focus is on building **fault-tolerant, distributed systems and production-ready AI pipelines**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+🚀 Interested in Software Engineering roles (Backend / AI Systems)  
+⚡ Strong in Data Structures & Algorithms + System Design fundamentals  
+
+---
+
+# 🧠 Core Areas
+- 🔹 Backend Development (FastAPI, Microservices, REST APIs)  
+- 🔹 Distributed Systems (Event-Driven Architecture, RabbitMQ)  
+- 🔹 AI Systems (LLMs, RAG, Multi-Agent Systems)  
+- 🔹 Deep Learning (CNNs, Sequence Models)
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+Java, Python  
+
+### ⚙️ Backend & Systems
+FastAPI, REST APIs, Microservices, Event-Driven Architecture, RabbitMQ  
+
+### 🧠 AI / ML
+TensorFlow, LLMs, RAG, AI Agents, LangChain, LangGraph  
+
+### 🗄️ Databases
+SQL, SQLite, ChromaDB, Pinecone  
+
+### 🧰 Tools & Platforms
+Git, GitHub, Docker, LangSmith, VS Code  
+
+---
+
+# 🏆 Achievements
+- 🥈 Runner-Up — National Level 24-hour Hackathon (Infothon)  
+- 💻 Solved 120+ problems on LeetCode (DSA focused)  
+- ⚡ Built AI and backend systems under time-constrained hackathon environments  
+
+---
+
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwal-D-Gaonkar&show_icons=true&theme=dark)
@@ -11,9 +50,3 @@ Hi, I’m Prajwal D Gaonkar 👨‍💻<br>A passionate Software Engineering stu
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwal-D-Gaonkar&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-D-Gaonkar&layout=compact&theme=dark)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
