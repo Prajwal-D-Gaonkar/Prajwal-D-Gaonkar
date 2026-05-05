@@ -26,7 +26,7 @@ Java, Python
 FastAPI, REST APIs, Microservices, Event-Driven Architecture, RabbitMQ  
 
 ### 🧠 AI / ML
-TensorFlow, LLMs, RAG, AI Agents, LangChain, LangGraph  
+TensorFlow, LLMs, RAG, AI Agents. 
 
 ### 🗄️ Databases
 SQL, SQLite, ChromaDB, Pinecone  
@@ -38,7 +38,6 @@ Git, GitHub, Docker, LangSmith, VS Code
 
 # 🏆 Achievements
 - 🥈 Runner-Up — National Level 24-hour Hackathon (Infothon)  
-- 💻 Solved 120+ problems on LeetCode (DSA focused)  
 - ⚡ Built AI and backend systems under time-constrained hackathon environments  
 
 ---
